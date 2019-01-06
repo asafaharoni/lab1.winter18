@@ -1,0 +1,69 @@
+Quartus Prime Archive log --	E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/vga_game.qarlog
+
+Archive:	E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/vga_game.qar
+Date:		Sun Jan 06 08:56:55 2019
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/KBDINTF.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/KBD_pins.tcl
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/LEFT_SHIFT.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/MAXCOUNT.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/Test_Toggle.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/bitrec.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/byterec.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/consta12.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/count8.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/hexss.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/hw_debug.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/lpf.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/pin.tcl
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/pin_KBD.tcl
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/regout.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/DEBUG/vrise.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/SinTable.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/SquareTable.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/addr_counter.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/audio_codec_controller.qxp
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/data_conversion.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/dpram.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/experiment_data_conversion.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/experiment_digital_recorder.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/experiment_sinus_generator.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/prescaler.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/MSS/rtl/recorder_module.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/VGA_Controller/VGA_Controller.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start.bsf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start.cmp
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start.inc
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start.qip
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/X_start_inst.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/assignment_defaults.qdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/constraints/DE10_Standard_Audio.sdc
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/constraints/pin.tcl
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/fdkasfdas.bsf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/fdkasfdas.qip
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/fdkasfdas.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start.bsf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start.qip
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start_x.cmp
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start_x.qip
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rect_start_x.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/TOP_SIFTACH.bdf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/back_ground_draw.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/objects_mux.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/rect_object.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/smileyface_object.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/rtl/smileyfacemove.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/snir.bsf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/snir.cmp
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/snir.qip
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/snir.vhd
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/vga_game.qpf
+E:/Google Drive/Technion/Semester 11/lab1/VGAlab/VGA/vga_game.qsf
+	======= Total: 58 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
